@@ -7,12 +7,12 @@ Interesado en aprender de manera autodidacta nuevas tecnologías y por el trabaj
 ## Lenguajes y Herramientas 💻
 
 ### Lenguajes &nbsp;
- - Python &nbsp;
- - Java &nbsp;
+ - Python &nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhT1ghqoiBqjev2yJxZWFmcbecyHYIb8kAHTAzEsuqRKSOuVJAkMbQQ8Vr6EnM_-OPx6k&usqp=CAU" width="25" height="25"/> 
+ - Java &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25"/> 
  - Visual Basic &nbsp;
   
 ### Base de Datos &nbsp;
- - SQL Server &nbsp;
+ - SQL Server &nbsp; <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="25" height="25"/>
  - MySQL &nbsp;
  - Postgres &nbsp;
   
